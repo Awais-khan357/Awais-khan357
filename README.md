@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **I am Passionate**
 
+<hr/>
 
 <p>&nbsp;<img align="center"color="black" src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
 
