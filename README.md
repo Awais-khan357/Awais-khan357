@@ -1,6 +1,6 @@
 <h3 align="left">Hi there, I'm Awais 👋</h3><hr/>
 <h3 align="left">I am Passionate Full Stack Web Developer</h3>
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" alt="awais-khan"/>
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="600" height="300" align="right" alt="awais-khan"/>
 - 🔭 I’m currently working on **Final Year Project**
 
 - 🌱 I’m currently learning **Nodejs , Express**
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am Passionate**
 
-
+<hr/>
 <p>&nbsp;<img align="center"color="black" src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-khan357&show_icons=true&locale=en&layout=compact" alt="awais-khan357" /></p> 
