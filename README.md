@@ -21,8 +21,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awais-khan357&" alt="awais-khan357" /></p>
 <hr/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h5 align="center">Connect with me:</h5>
+<p align="center">
 <a href="https://twitter.com/awaiskhan1020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awaiskhan1020" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-owais-5379b4247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-owais-5379b4247" height="30" width="40" /></a>
 <a href="https://instagram.com/awais_khan357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awais_khan357" height="30" width="40" /></a>
