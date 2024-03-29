@@ -1,7 +1,7 @@
 <h3 align="left">Hi there, I'm Awais 👋</h3><hr/>
 <h3 align="left">I am Passionate Full Stack Web Developer</h3>
-
-<img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" width="400" align="center"  alt="awais-khan"/>
+<p >
+  <ul align="left">
 - 🔭 I’m currently working on **Final Year Project**
 
 - 🌱 I’m currently learning **Nodejs , Express**
@@ -11,7 +11,9 @@
 - 📫 How to reach me **m.owais4446@gmail.com**
 
 - ⚡ Fun fact **I am Passionate**
-
+</ul>
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" width="400" align="right"  alt="awais-khan"/>
+</p>
 <hr/>
 
 <p>&nbsp;<img align="center"color="black" src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
