@@ -1,5 +1,5 @@
 <h3 align="left">Hi there, I'm Awais 👋</h3><hr/>
-<h3 align="left">I am Passionate Full Stack Web Developer from Pakistan</h3>
+<h3 align="left">I am Passionate Full Stack Web Developer</h3>
 
 <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" width="400" align="right"  alt="awais-khan"/>
 - 🔭 I’m currently working on **Final Year Project**
