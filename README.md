@@ -1,5 +1,5 @@
-<h3 align="center">Hi there, I'm Awais 👋</h3><hr/>
-<h3 align="center">I am Passionate Full Stack Web Developer from Pakistan</h3>
+<h3 align="left">Hi there, I'm Awais 👋</h3><hr/>
+<h3 align="left">I am Passionate Full Stack Web Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Final Year Project**
 
@@ -10,6 +10,8 @@
 - 📫 How to reach me **m.owais4446@gmail.com**
 
 - ⚡ Fun fact **I am Passionate**
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodess-cafe%2Fthe-ultimate-guide-to-competitive-programming-7bde37b70f45&psig=AOvVaw2QkSP40QqxucYeeRnBoOse&ust=1711798216445000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCI7MuvmYUDFQAAAAAdAAAAABAv" align="right"  alt="awais-khan"/>
 
 <hr/>
 
