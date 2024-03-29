@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Awais 👋</h1>
+<h5 align="center">Hi there, I'm Awais 👋</h5>
 <h3 align="center">I am Passionate Full Stack Web Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Final Year Project**
