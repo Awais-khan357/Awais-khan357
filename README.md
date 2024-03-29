@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am Passionate**
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodess-cafe%2Fthe-ultimate-guide-to-competitive-programming-7bde37b70f45&psig=AOvVaw2QkSP40QqxucYeeRnBoOse&ust=1711798216445000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCI7MuvmYUDFQAAAAAdAAAAABAv](https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif)" align="right"  alt="awais-khan"/>
+<img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" align="right"  alt="awais-khan"/>
 
 <hr/>
 
