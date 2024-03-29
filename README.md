@@ -1,23 +1,15 @@
-<h3 align="left">Hi there, I'm Awais 👋</h3>
-<hr/>
-
+<h3 align="left">Hi there, I'm Awais 👋</h3><hr/>
 <h3 align="left">I am Passionate Full Stack Web Developer</h3>
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" align="right" width="400" alt="awais-khan"/>
+- 🔭 I’m currently working on **Final Year Project**
 
-<p>
-  - 🔭 I’m currently working on **Final Year Project**
-  <br/>
-  - 🌱 I’m currently learning **Node.js , Express**
-  <br/>
-  - 💬 Ask me about **React , Firebase , Bootstrap**
-  <br/>
-  - 📫 How to reach me **m.owais4446@gmail.com**
-  <br/>
-  - ⚡ Fun fact **I am Passionate**
-</p>
+- 🌱 I’m currently learning **Nodejs , Express**
 
-<p align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" width="400" alt="awais-khan"/>
-</p>
+- 💬 Ask me about **React , Firebase , Bootstrap**
+
+- 📫 How to reach me **m.owais4446@gmail.com**
+
+- ⚡ Fun fact **I am Passionate**
 
 <hr/>
 
