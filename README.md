@@ -1,6 +1,7 @@
 <h3 align="left">Hi there, I'm Awais 👋</h3><hr/>
 <h3 align="left">I am Passionate Full Stack Web Developer from Pakistan</h3>
 
+<img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" align="right"  alt="awais-khan"/>
 - 🔭 I’m currently working on **Final Year Project**
 
 - 🌱 I’m currently learning **Nodejs , Express**
@@ -10,8 +11,6 @@
 - 📫 How to reach me **m.owais4446@gmail.com**
 
 - ⚡ Fun fact **I am Passionate**
-
-<img src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" align="right"  alt="awais-khan"/>
 
 <hr/>
 
