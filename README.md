@@ -13,11 +13,9 @@
 - ⚡ Fun fact **I am Passionate**
   
 - 🤔 Exploring AI and Data Science
-  
-- ⚡ Techthusiast
 
 <hr/>
-<p>&nbsp;<img align="center"color="black" src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
+<p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-khan357&show_icons=true&locale=en&layout=compact" alt="awais-khan357" /></p> 
 
