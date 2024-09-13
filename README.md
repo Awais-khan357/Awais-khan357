@@ -2,17 +2,17 @@
 <hr/>
 <h3 align="left">Full-Stack Web Developer | Software development enthusiast |Pakistan</h3>
   <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="480" height="220" align="right" alt="awais-khan"/>
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Project**
 
 - 🌱 I’m currently learning **Nodejs , Express**
 
-- 💬 Ask me about **React , Firebase , Bootstrap**
+- 💬 Ask me about **React , Firebase , Nodejs**
 
 - 📫 How to reach me **m.owais4446@gmail.com**
 
 - ⚡ Fun fact **I am Passionate**
   
-- 🤔 Exploring AI and Data Science
+- 🤔 Exploring AI and python
 
 <hr/>
 <p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
