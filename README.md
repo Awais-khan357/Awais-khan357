@@ -2,6 +2,7 @@
 <hr/>
 <h3 align="left">Full-Stack Web Developer | Software development enthusiast |Pakistan</h3>
   <img src="https://cdn.shopify.com/shopifycloud/shopify_dev/assets/home/home-new/halloween/hero-1-dark-2x-f68032e033c2be2154b6a0a678841a898477d088f733663d3a35c118ad42f5b0.png" width="480" height="420" align="right" alt="awais-khan"/>
+  <hr/>
 - 🔭 I’m currently working on **Project**
 
 - 🌱 I’m currently learning **Nodejs , Express**
@@ -14,7 +15,7 @@
   
 - 🤔 Exploring AI and python
 
-<hr/>
+
 <p>&nbsp;<img align="center" color="blue"  src="https://github-readme-stats.vercel.app/api?username=awais-khan357&show_icons=true&locale=en" alt="awais-khan357" /></p> <hr/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awais-khan357&show_icons=true&locale=en&layout=compact" alt="awais-khan357" /></p> 
