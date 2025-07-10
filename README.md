@@ -1,7 +1,7 @@
 <h3 align="left">Hi there, I'm Awais 👋</h3>
 <hr/>
 <h3 align="left">Full-Stack Web Developer | Software development enthusiast |Pakistan</h3>
-  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="480" height="220" align="right" alt="awais-khan"/>
+  <img src="https://cdn.shopify.com/shopifycloud/shopify_dev/assets/home/home-new/halloween/hero-1-dark-2x-f68032e033c2be2154b6a0a678841a898477d088f733663d3a35c118ad42f5b0.png" width="480" height="220" align="right" alt="awais-khan"/>
 - 🔭 I’m currently working on **Project**
 
 - 🌱 I’m currently learning **Nodejs , Express**
