@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.shopify.com/shopifycloud/shopify_dev/assets/home/home-new/halloween/hero-1-dark-2x-f68032e033c2be2154b6a0a678841a898477d088f733663d3a35c118ad42f5b0.png" width="200" alt="Developer Illustration"/>
+  <img src="https://cdn.shopify.com/shopifycloud/shopify_dev/assets/home/home-new/halloween/hero-1-dark-2x-f68032e033c2be2154b6a0a678841a898477d088f733663d3a35c118ad42f5b0.png" width="500" alt="Developer Illustration"/>
   
   # 👋 Hi, I'm Awais
   
